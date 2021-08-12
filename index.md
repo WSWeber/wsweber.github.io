@@ -23,11 +23,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](config.yml) and ![Image](src)
+[Link](_URL_) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[config.yml](_config.yml)
+[README](README.md)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WSWeber/wsweber.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
