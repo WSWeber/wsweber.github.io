@@ -1,5 +1,7 @@
 <script type="application/ld+json">
 {"headline":"Welcome to GitHub Pages","url":"https://wsweber.github.io/","@type":"WebSite","name":"wsweber","@context":"https://schema.org"}</script>
+
+<h1>wsweber</h1>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WSWeber/wsweber.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
