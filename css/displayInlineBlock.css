@@ -3,7 +3,7 @@
     text-align: center;
 }
     .example-item {
-        display: inline;
+        display: block;
         width:33.333%; //Adicionamos essa linha
     }
     .example-item_first {
@@ -15,3 +15,4 @@
     .example-item_third {
         background-color: #3B97D3;
     }
+    z
