@@ -4,8 +4,8 @@
 }
     .example-item {
         display: block;
-        width: 33.333%; // Adicionamos essa linha
-        height: 150px;  // E essa aqui, também adicionamos
+        height: 150px;
+        width: 33.333%;
     }
     .example-item_first {
         background-color: #FAA116;
