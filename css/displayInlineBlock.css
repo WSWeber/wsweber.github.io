@@ -4,8 +4,8 @@
 }
     .example-item {
         display: block;
-        height: 150px;
         width: 33.333%;
+        height: 30px;
     }
     .example-item_first {
         background-color: #FAA116;
