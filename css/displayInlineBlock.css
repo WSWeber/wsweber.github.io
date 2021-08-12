@@ -4,6 +4,7 @@
 }
     .example-item {
         display: inline;
+        width:33.333%; //Adicionamos essa linha
     }
     .example-item_first {
         background-color: #FAA116;
